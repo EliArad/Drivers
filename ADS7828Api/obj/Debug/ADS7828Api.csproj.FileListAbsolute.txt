@@ -1,0 +1,11 @@
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\obj\Debug\ADS7828Api.csproj.CoreCompileInputs.cache
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\ADS7828Api.dll
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\ADS7828Api.pdb
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\I2CBase.dll
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\dln.net.dll
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\MCP2221DLL-M-dotNet4.dll
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\bin\Debug\I2CBase.pdb
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\obj\Debug\ADS7828Api.csprojAssemblyReference.cache
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\obj\Debug\ADS7828Api.csproj.CopyComplete
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\obj\Debug\ADS7828Api.dll
+D:\Customers\Ran\TevelBattery\master\21_06_2021\tevelate_runshahar\Hardware\ADS7828Api\obj\Debug\ADS7828Api.pdb

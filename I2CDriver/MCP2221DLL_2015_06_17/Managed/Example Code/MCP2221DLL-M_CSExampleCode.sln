@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP2221DLL-M_CSExampleCode", "MCP2221DLL-M_CSExampleCode.csproj", "{668AF756-0882-4433-8B87-6788D16334FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668AF756-0882-4433-8B87-6788D16334FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668AF756-0882-4433-8B87-6788D16334FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668AF756-0882-4433-8B87-6788D16334FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668AF756-0882-4433-8B87-6788D16334FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AD7489-01AA-4B62-B877-1EA436D3AD00}
+	EndGlobalSection
+EndGlobal
